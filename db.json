@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "Keshav",
+      "age": "23",
+      "address": "Sambalpur",
+      "department": "Full stack developer",
+      "salary": "100000000",
+      "maritalState": false,
+      "id": 1
+    },
+    {
+      "name": "Sanju",
+      "age": "14",
+      "address": "gurgaon",
+      "department": "Placement",
+      "salary": "188888",
+      "maritalState": true,
+      "id": 2
+    }
+  ]
+}
